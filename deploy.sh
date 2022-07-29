@@ -1,7 +1,4 @@
-updating in master branch
-updating in master branch
-updating in development branch
-updating in master branch
+Updating this line from development branch
 Updating in dev branch
 
 This file contains the deployment script
